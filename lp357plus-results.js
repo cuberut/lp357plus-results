@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name       LP357+ votes
+// @name       LP357+ results
 // @version    0.2
 // @author     cuberut
 // @include    https://lista.radio357.pl/app/lista/wyniki/*
