@@ -3,7 +3,7 @@
 // @version    0.2
 // @author     cuberut
 // @include    https://lista.radio357.pl/app/lista/wyniki/*
-// @updateURL  https://raw.githubusercontent.com/cuberut/lp357plus/main/lp357plus.js
+// @updateURL  https://raw.githubusercontent.com/cuberut/lp357plus/main/lp357plus-results.js
 // @grant      GM_addStyle
 // ==/UserScript==
 
